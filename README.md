@@ -15,7 +15,7 @@ See stackoverflow posting:
 
 #App flow user prospective#
 * It has three JQM pages: "Landing, About, Login"
-* Each page has the *cool* panel menu which comes for free by using JQM-1.3.x
+* Each page has the *cool* panel menu which comes for free by using JQM
 * When it launches, it goes to the Landing page.
 * From the landing page, user can go to either the "About" or the "Login page."
 * From either the "About/Login" page, it can go back to other two pages.
